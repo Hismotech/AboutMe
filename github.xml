@@ -3,5 +3,8 @@
     <account id="8de0fb49-8fae-4a98-bf35-c9b231cd1981" name="Hismotech">
       <server useHttp="false" host="github.com" />
     </account>
+    <account id="b6ad4ec8-eea5-4ef0-9953-3a5076de8c60" name="hismotech">
+      <server useHttp="false" host="github.com" />
+    </account>
   </component>
 </application>
