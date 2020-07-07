@@ -1,0 +1,16 @@
+ <resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Elon Musk</string>
+    <string name="yellow_star">Yellow star</string>
+     <string name="title">How Elon Musk Became Elon Musk: \nA Brief Biography</string>
+     <string name="bio">
+        Elon Musk was born to a South African father and a Canadian mother,displayed an early
+        talent for computers and entrepreneurship.\n\n
+        At age 12 he created a video game and sold it to a computer magazine.\n
+       \n In 1988,after obtaining a Canadian passport, Musk left South Africa because he was unwilling to support
+        apartheid through compulsory military service and because he sought the greater economic opportunities
+        available in the United States. </string>
+     <string name="nickname">nickname</string>
+     <string name="done">Done</string>
+
+ </resources>
